@@ -6,7 +6,7 @@ import Icons from '../lib/icons'
 const App = () =>{
     return(
         <>
-            <Icons name="google_play" size={24} color="#000"/>
+            <Icons name="bookmark-outline" size={24} color="#000"/>
         </>
     )
 }
