@@ -6,7 +6,7 @@ import Icons from '../lib/icons'
 const App = () =>{
     return(
         <>
-            <Icons name="bookmark-outline" size={24} color="#000"/>
+            <Icons name="bookmark" size={100} color="#0f0"/>
         </>
     )
 }
