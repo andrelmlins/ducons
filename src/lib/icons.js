@@ -1,18 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import google_play from './icons/google_play.svg'
-
-
-
+import {dados} from './data'
 
 
 
 export default function Icons({name, size, color}){
-
-    const dados = {
-        "google_play": google_play,
-    }
 
     return(
         <img src={dados[name]} style={{width: `${size}px`,
