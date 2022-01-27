@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="24px" height="24px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 24 24"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" class="str1" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="+" horiz-adv-x="584" d="M251.051 115.999l0 196.069 -195.063 0 0 82.026 195.063 0 0 195.007 83.0317 0 0 -195.007 195.007 0 0 -82.026 -195.007 0 0 -196.069 -83.0317 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str1 {stroke-width:42.58;stroke-miterlimit:22.9256}
+    .str4 {stroke:#FEFEFE;stroke-width:2.36;stroke-miterlimit:22.9256}
+    .str0 {stroke:#2B2A29;stroke-width:2.36;stroke-miterlimit:22.9256}
+    .str3 {stroke:#FEFEFE;stroke-width:0.9;stroke-miterlimit:22.9256}
+    .str2 {stroke:#2B2A29;stroke-width:0.9;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil2 {fill:#FEFEFE}
+    .fil1 {fill:#2B2A29}
+    .fnt0 {font-weight:normal;font-size:21.14px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="11" cy="-85.46" r="9"/>
+  <text x="4.81" y="-78.01"  class="fil1 str2 fnt0">+</text>
+  <circle class="fil1 str0" cx="-10.54" cy="-86.55" r="9"/>
+  <text x="-16.72" y="-79.1"  class="fil2 str3 fnt0">+</text>
+  <path class="fil0 str0" d="M2.41 -71.21l11.81 0c0.05,0 0.1,0.04 0.1,0.1l0 15.68c0,0.04 -0.03,0.07 -0.06,0.09 -0.04,0.01 -0.08,0.01 -0.11,-0.02l-5.03 -4.64c-0.03,-0.03 -0.08,-0.04 -0.12,-0.01l-6.53 4.69c-0.03,0.02 -0.07,0.02 -0.1,0.01 -0.04,-0.02 -0.06,-0.05 -0.06,-0.09 0,-5.24 0,-10.48 0,-15.71 0,-0.06 0.05,-0.1 0.1,-0.1z"/>
+  <path class="fil1 str0" d="M-17.9 -70.96l11.8 0c0.05,0 0.1,0.04 0.1,0.1l0 15.67c0,0.04 -0.02,0.08 -0.06,0.09 -0.04,0.02 -0.08,0.01 -0.11,-0.01l-5.02 -4.64c-0.04,-0.03 -0.09,-0.04 -0.13,-0.01l-6.53 4.69c-0.03,0.02 -0.06,0.02 -0.1,0.01 -0.03,-0.02 -0.05,-0.06 -0.05,-0.09 0,-5.24 0,-10.48 0,-15.71 0,-0.06 0.04,-0.1 0.1,-0.1z"/>
+  <polygon class="fil0 str0" points="7.34,-51.65 8.98,-46.3 14.34,-46.31 10,-43.01 11.66,-37.65 7.34,-40.97 3.01,-37.65 4.68,-43.01 0.34,-46.31 5.69,-46.3 "/>
+  <polygon class="fil1 str0" points="-13,-50.75 -11.36,-45.39 -6,-45.4 -10.34,-42.1 -8.68,-36.75 -13,-40.06 -17.33,-36.75 -15.67,-42.1 -20,-45.4 -14.65,-45.39 "/>
+  <circle class="fil0 str0" cx="12" cy="12" r="9"/>
+  <polygon class="fil1 str0" points="15,12 12,13.5 9,15 9,12 9,9 12,10.5 "/>
+  <circle class="fil1 str0" cx="63.5" cy="-1.75" r="9"/>
+  <polygon class="fil2 str4" points="66.5,-1.75 63.5,-0.25 60.5,1.25 60.5,-1.75 60.5,-4.75 63.5,-3.25 "/>
+ </g>
+</svg>
