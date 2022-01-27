@@ -7,6 +7,11 @@ import Star from './icons/star.svg'
 import StarOutline from './icons/star-outline.svg'
 import Play from './icons/play.svg'
 import PlayOutline from './icons/play-outline.svg'
+import FacebookCircle from './icons/facebook-circle.svg'
+import FacebookCircleOutline from './icons/facebook-circle-outline.svg'
+import FacebookSquare from './icons/facebook-square.svg'
+import FacebookSquareOutline from './icons/facebook-square-outline.svg'
+
 
 export const dados = {
     "google-play": GooglePlay,
@@ -18,4 +23,9 @@ export const dados = {
     "star-outline": StarOutline,
     "play": Play,
     "play-outline": PlayOutline,
+    "facebook-circle": FacebookCircle,
+    "facebook-circle-outline": FacebookCircleOutline,
+    "facebook-square": FacebookSquare,
+    "facebook-square-outline": FacebookSquareOutline,
+
 }
