@@ -20,6 +20,10 @@ export default function Icons({name, size}){
 }
 
 Icons.PropTypes = {
-    name: PropTypes.string,
-    size: PropTypes.number
+    name: PropTypes.string.isRequired,
+    size: PropTypes.number,
+}
+
+Icons.defaultProps = {
+    size: 24
 }
