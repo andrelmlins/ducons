@@ -11,6 +11,8 @@ import FacebookCircle from './icons/facebook-circle.svg'
 import FacebookCircleOutline from './icons/facebook-circle-outline.svg'
 import FacebookSquare from './icons/facebook-square.svg'
 import FacebookSquareOutline from './icons/facebook-square-outline.svg'
+import Pix from './icons/pix.svg'
+import PixOutline from './icons/pix-outline.svg'
 
 
 export const dados = {
@@ -27,5 +29,7 @@ export const dados = {
     "facebook-circle-outline": FacebookCircleOutline,
     "facebook-square": FacebookSquare,
     "facebook-square-outline": FacebookSquareOutline,
+    "pix": Pix,
+    "pix-outline": PixOutline,
 
 }
