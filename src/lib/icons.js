@@ -5,7 +5,7 @@ import {dados} from './data'
 
 
 
-export default function Icons({name, size, color}){
+export default function Icons({name, size}){
 
     return(
         <span style={{width: `${size}px`,
@@ -17,4 +17,9 @@ export default function Icons({name, size, color}){
         backgroundSize: 'cover',
         }}></span>
     )
+}
+
+Icons.PropTypes = {
+    name: PropTypes.string,
+    size: PropTypes.number
 }
