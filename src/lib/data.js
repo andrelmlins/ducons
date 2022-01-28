@@ -13,6 +13,7 @@ import FacebookSquare from './icons/facebook-square.svg'
 import FacebookSquareOutline from './icons/facebook-square-outline.svg'
 import Pix from './icons/pix.svg'
 import PixOutline from './icons/pix-outline.svg'
+import Share from './icons/share.svg'
 
 
 export const dados = {
@@ -31,5 +32,6 @@ export const dados = {
     "facebook-square-outline": FacebookSquareOutline,
     "pix": Pix,
     "pix-outline": PixOutline,
+    "share": Share,
 
 }
