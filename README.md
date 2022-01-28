@@ -29,3 +29,11 @@ export default function Componete(){
     )
 }
 ```
+
+## Como contribuir:
+
+Se estiver interessado em contribuir, só fazer um fork do projeto e fazer um pull. 
+
+Eu ficarei muito feliz com a contribuição de todos!!
+
+😃
