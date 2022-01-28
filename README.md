@@ -1,6 +1,7 @@
 # Ducons
 
 ![NPM](https://img.shields.io/npm/l/ducons)
+![npm](https://img.shields.io/npm/v/ducons)
 
 Biblioteca de icones Brasileira.
 
