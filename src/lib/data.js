@@ -16,6 +16,7 @@ import PixOutline from './icons/pix-outline.svg'
 import Share from './icons/share.svg'
 import Code from './icons/code.svg'
 import Html from './icons/html.svg'
+import HtmlOutline from './icons/html-outline.svg'
 
 
 export const dados = {
@@ -37,5 +38,6 @@ export const dados = {
     "share": Share,
     "code": Code,
     "html": Html,
+    "html-outline": HtmlOutline,
 
 }
