@@ -5,6 +5,13 @@
 
 Biblioteca de icones Brasileira.
 
+## ATENÇÃO ⚠️⚠️:
+
+A biblioteca está passando por algumas modificações e possíveis quedas de funcionamento pode ocorrer, por favor, aguarde até a próxima atualização para evitar erros em seus projetos!
+
+## ⚠️⚠️⚠️
+
+
 ## **Como instalar**:
 
 ```
@@ -36,5 +43,3 @@ export default function Componete(){
 Se estiver interessado em contribuir, só fazer um fork do projeto e fazer um pull. 
 
 Eu ficarei muito feliz com a contribuição de todos!!
-
-😃
