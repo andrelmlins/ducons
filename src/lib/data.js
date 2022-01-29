@@ -17,7 +17,10 @@ import Share from './icons/share.svg'
 import Code from './icons/code.svg'
 import Html from './icons/html.svg'
 import HtmlOutline from './icons/html-outline.svg'
-
+import MenuHamburguer from './icons/menu-hamburguer.svg'
+import Search from './icons/search.svg'
+import ZoomIn from './icons/zoom-in.svg'
+import ZoomOut from './icons/zoom-out.svg'
 
 export const dados = {
     "google-play": GooglePlay,
@@ -39,5 +42,9 @@ export const dados = {
     "code": Code,
     "html": Html,
     "html-outline": HtmlOutline,
+    "search": Search,
+    "menu-hamburguer": MenuHamburguer,
+    "zoom-in": ZoomIn,
+    "zoom-out": ZoomOut,
 
 }
