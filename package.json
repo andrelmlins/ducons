@@ -1,9 +1,14 @@
 {
   "name": "ducons",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "biblioteca de icons brasileiros",
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DutraGames/ducons.git"
+  },
+  "keywords": ["icons", "ducons", "designer", "svg", "font"],
   "files": [
     "dist",
     "README.md"
