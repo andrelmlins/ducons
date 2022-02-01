@@ -1,14 +1,14 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
+import React from "react";
+import ReactDOM from "react-dom";
 
-import Icons from '../lib/icons'
+import Icons from "../lib/icons";
 
-const App = () =>{
-    return(
-        <>
-            <Icons name="bookmark" size={100} color="#0f0"/>
-        </>
-    )
-}
+const App = () => {
+  return (
+    <>
+      <Icons name="google-play" size={300} color="#0f0fff" />
+    </>
+  );
+};
 
-ReactDOM.render(<App/>, document.getElementById('root'))
+ReactDOM.render(<App />, document.getElementById("root"));

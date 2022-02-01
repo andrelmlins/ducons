@@ -10,24 +10,27 @@ const config = {
     path: path.resolve(__dirname, "build"),
     filename: "bundle.js",
     library: "default",
-    libraryTarget: "umd"
+    libraryTarget: "umd",
   },
-
   resolve: { extensions: [".js", ".json"] },
-
   module: {
     rules: [
       { test: /\.(js)x?$/, loader: "babel-loader", exclude: /node_modules/ },
-      { test: /\.(png|jpe?g|gif|svg)$/i, use:[{loader: "file-loader"}]},
-    ]
+      { test: /\.(png|jpe?g|gif)$/i, use: [{ loader: "file-loader" }] },
+      {
+        test: /\.svg$/i,
+        issuer: /\.[jt]sx?$/,
+        use: [{ loader: "@svgr/webpack", options: { icon: true } }],
+      },
+    ],
   },
 
   plugins: [
     new HtmlWebpackPlugin({
       inject: true,
-      template: path.join(APP_PATH, "index.html")
-    })
-  ]
+      template: path.join(APP_PATH, "index.html"),
+    }),
+  ],
 };
 
 module.exports = () => config;
